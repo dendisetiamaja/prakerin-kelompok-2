@@ -19,19 +19,19 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1592110e-984c-4c5a-a95b-4e51c18718c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/views/fasilitas.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/jurusan.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/kontak.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/layouts/footer.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/layouts/head.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/layouts/header.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/layouts/js.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/layouts/master.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/prakerin-kelompok-2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/prakerin-kelompok-2.iml" afterDir="false" />
+    <list default="true" id="1592110e-984c-4c5a-a95b-4e51c18718c9" name="Default Changelist" comment="pelajari">
+      <change afterPath="$PROJECT_DIR$/resources/views/eskul.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/multimedia.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/osis.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/rpl.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/tentang.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/fasilitas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/fasilitas.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/kontak.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/kontak.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/header.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,7 +184,17 @@
       <workItem from="1628054742662" duration="120000" />
       <workItem from="1628055252848" duration="3208000" />
       <workItem from="1628077806281" duration="5283000" />
+      <workItem from="1628084051755" duration="2361000" />
+      <workItem from="1628139139455" duration="5265000" />
     </task>
+    <task id="LOCAL-00001" summary="pelajari">
+      <created>1628084228519</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1628084228520</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,20 +210,33 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="pelajari" />
+    <option name="LAST_COMMIT_MESSAGE" value="pelajari" />
   </component>
   <component name="WindowStateProjectService">
     <state x="448" y="170" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1628077898879">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="448" y="170" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738@0.0.1366.738" timestamp="1628077898879" />
-    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1628078187518">
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1628139451436">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1628078187518" />
-    <state x="518" y="292" key="NewPhpFileDialog" timestamp="1628079974152">
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1628139451436" />
+    <state x="518" y="292" key="NewPhpFileDialog" timestamp="1628143451960">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="518" y="292" key="NewPhpFileDialog/0.0.1366.738@0.0.1366.738" timestamp="1628079974152" />
+    <state x="518" y="292" key="NewPhpFileDialog/0.0.1366.738@0.0.1366.738" timestamp="1628143451960" />
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1628084347447">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1628084347447" />
+    <state x="361" y="157" key="git4idea.merge.GitPullDialog" timestamp="1628085617385">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="361" y="157" key="git4idea.merge.GitPullDialog/0.0.1366.738@0.0.1366.738" timestamp="1628085617385" />
     <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1628056812346">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
